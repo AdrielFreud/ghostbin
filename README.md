@@ -21,7 +21,7 @@ Baixe diretamente do github com:
  - ou https://github.com/AdrielFreud/ghostbin/archive/master.zip
 
 # Uso
- - py ghost.py [type] site.com
+ - py ghost.py -f [file or text] -e [expire_date] -l [linguagem] -p [password]
  or
  - chmod a+x ghostbin.py & cp ghostbin.py /bin
  - ./ghostbin.py
